@@ -5,7 +5,7 @@ This project was developed using Python 3.7 and it uses the open source Mask R-C
 
 
 ## Method
-Example of the mobility classification of RGB data. 
+Example of the mobility classification of the RGB data. 
 | ![This is an image](https://github.com/dddqqq/Consciousness_detection/blob/main/media/Figure%203.png) |
 |:--:| 
 | <b>  
