@@ -1,5 +1,5 @@
 # Consciousness detection via visible and infrared imaging
-This project presents an algorithm (link article) that detects consciousness based on human mobility using AI and image processing techniques using visible (RGB) and infrared imaging (IRT).
+This project presents an algorithm (link article) that detects consciousness based on human mobility using visible (RGB) and infrared imaging (IRT).
 
 This project was developed using Python 3.7 and the algorithm uses the the open source Mask R-CNN developed by He et al., and image processing techniques.
 
