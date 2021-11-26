@@ -4,12 +4,12 @@ This project presents an algorithm that detects consciousness based on human mob
 This project was developed using Python 3.7 and it uses the open source Mask-RCNN developed by He et al.
 
 
-Method
+## Method
 Image description![This is an image](https://github.com/dddqqq/Consciousness_detection/blob/main/Figure%203.png)
 
-<img src="https://github.com/dddqqq/Consciousness_detection/blob/main/Figure%203.png" width=50% height=50%>
 
-Installation:
+
+## Installation:
 - Python 3.7
 - Pycocotools from philferriere [GitHub Pages](https://github.com/philferriere/cocoapi)
 - Cuda 10.0
