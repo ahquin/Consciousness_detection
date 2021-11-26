@@ -5,8 +5,9 @@ This project was developed using Python 3.7 and it uses the open source Mask R-C
 
 
 ## Method
-Example of the mobility classification of RGB data. ![This is an image](https://github.com/dddqqq/Consciousness_detection/blob/main/media/Figure%203.pdf)
+Example of the mobility classification of RGB data. ![This is an image](https://github.com/dddqqq/Consciousness_detection/blob/main/media/Figure%203.png)
 
+The following videos examplify the whole method through the videos of 30s. Tracking is performed at each second of the videos.
 RGB video ![RGB video](https://github.com/dddqqq/Consciousness_detection/blob/main/media/rgb_lay_Head_covered.mp4)
 IRT video ![IRT video](https://github.com/dddqqq/Consciousness_detection/blob/main/media/irt_lay_Head.mp4)
 
