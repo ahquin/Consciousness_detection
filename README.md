@@ -21,7 +21,7 @@ IRT video ![IRT video](https://github.com/dddqqq/Consciousness_detection/blob/ma
 
 ## Installation:
 - Python 3.7
-- Pycocotools from philferriere [(Pycocotools)](https://github.com/philferriere/cocoapi)
+- Pycocotools from @philferriere [(Pycocotools)](https://github.com/philferriere/cocoapi)
 - Cuda 10.0
 - Mask R-CNN from He et al.  [(Mask R-CNN)](https://github.com/matterport/Mask_RCNN)
 
