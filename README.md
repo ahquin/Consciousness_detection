@@ -9,7 +9,7 @@ Example of the mobility classification of RGB data.
 | ![This is an image](https://github.com/dddqqq/Consciousness_detection/blob/main/media/Figure%203.png) |
 |:--:| 
 | <b>  
-{ <b> :.image-caption}*Intermediary RGB images throughout the algorithmic process: a) the original RGB frame, b) the mask and bounding box given from mask R-CNN, c) the binary skeletonized mask, d) the white grid on the gray image, e) the processed image prepared for selection of feature points, f) the selection of feature points, and g) the movement lines in between two frames of the feature points (essentially “head” movement). The obtained movement signal through time is displayed in the graphic, and, in this case, the person is classified as “moving.” </b>|
+{ <b> Intermediary RGB images throughout the algorithmic process: a) the original RGB frame, b) the mask and bounding box given from mask R-CNN, c) the binary skeletonized mask, d) the white grid on the gray image, e) the processed image prepared for selection of feature points, f) the selection of feature points, and g) the movement lines in between two frames of the feature points (essentially “head” movement). The obtained movement signal through time is displayed in the graphic, and, in this case, the person is classified as “moving.” </b>|
 
 The following videos examplify the whole method through the videos of 30s. Tracking is performed at each second of the videos.
 RGB video ![RGB video](https://github.com/dddqqq/Consciousness_detection/blob/main/media/rgb_lay_Head_covered.mp4)
