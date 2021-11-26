@@ -10,6 +10,7 @@ Image description
 
 Installation:
 - Python 3.7
-- Pycocotools by philferriere
+- Pycocotools from philferriere [GitHub Pages](https://github.com/philferriere/cocoapi)
 - Cuda 10.0
+- Mask R-CNN from He et al.  ([GitHub Pages](https://github.com/matterport/Mask_RCNN)
 - 
