@@ -1,11 +1,11 @@
 # Consciousness_detection
-This project presents an algorithm that detects consciousness based on human mobility using AI and image processing techniques using visible and infrared imaging.
+This project presents an algorithm that detects consciousness based on human mobility using AI and image processing techniques using visible (RGB) and infrared imaging (IRT).
 
 This project was developed using Python 3.7 and it uses the open source Mask-RCNN developed by He et al.
 
 
 ## Method
-Image description![This is an image](https://github.com/dddqqq/Consciousness_detection/blob/main/Figure%203.png)
+Example of the mobility classification of one RGB video. ![This is an image](https://github.com/dddqqq/Consciousness_detection/blob/main/Figure%203.png)
 
 
 
