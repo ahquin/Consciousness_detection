@@ -14,4 +14,3 @@ Example of the mobility classification of one RGB video. ![This is an image](htt
 - Pycocotools from philferriere [GitHub Pages](https://github.com/philferriere/cocoapi)
 - Cuda 10.0
 - Mask R-CNN from He et al.  [GitHub Pages](https://github.com/matterport/Mask_RCNN)
-- 
