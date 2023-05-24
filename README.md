@@ -29,13 +29,3 @@ IRT video ![IRT video](https://github.com/dddqqq/Consciousness_detection/blob/ma
 ## Citation
 Use this bibtex to cite this repository:
 
-@misc{queirospokee,
-    author       = {Queirós Pokee et al.},
-    title        = {{Consciousness detection on injured simulated patients using manual and automatic classification via visible and infrared imaging}},
-    month        = ,
-    year         = ,
-    doi          = {},
-    version      = {1.0},
-    publisher    = {},
-    url          = {}
-    }
